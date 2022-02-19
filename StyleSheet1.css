@@ -1,3 +1,11 @@
 ﻿body {
-   color: hsl(240,50%,5%)
+   color: hsl(240,50%,25%);
+}
+h1 {
+  color: hsl(240,100%,15%);
+  margin-top: 2.5em;
+}
+p {
+    margin-bottom: 2em;
+
 }
